@@ -2,8 +2,8 @@
 
 ![Sextans](https://img.shields.io/badge/Sextans-v0.1.0--alpha-blue)
 ![Java](https://img.shields.io/badge/Java-17+-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green)
-![Vue.js](https://img.shields.io/badge/Vue.js-3.x-brightgreen)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-green)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.5-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **Sextans (六分仪)** 是一个现代化的、插件化的企业级业务文档管理系统。它旨在成为企业内部的知识枢纽，提供强大、灵活且可扩展的文档协作与管理能力。
@@ -31,4 +31,4 @@
 
 ## 许可证
 
-本项目基于 [MIT License](./LICENSE) 开源。 
+本项目基于 [MIT License](./LICENSE) 开源。
